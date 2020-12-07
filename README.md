@@ -15,7 +15,7 @@ We will analyze the similarities between songs that came out in a span of four d
 ### [Interactive Lyft Bike Dashboard in R](https://github.com/basilghauri/Lyft-Bike-dashbord)
 Made an interactive dashboard using plotly, leaflet and flexdashboard with geolocation of all Lyft Bike stations in the Bayarea and some characteristics of users.This was a project for my Data Visualization class.
 
-![](https://github.com/basilghauri/Lyft-Bike-dashbord/blob/master/Lyft%20Bike.PNG)
+![](https://github.com/basilghauri/basilghauri.github.io/blob/main/Lyft%20Bike.PNG?raw=true)
 
 ### [Prediciting Heart Disease in Patients](https://github.com/basilghauri/Predict-Heart-Disease-in-Patients)
 Predicitng heart disease in patients using Logisitic Regression and KNN modeling.
