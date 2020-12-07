@@ -4,7 +4,7 @@
 ### [Customer Segmentation using Credit Bank Data](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data)
 This project comprises of using user data from a german bank to conduct customer segmentation of loans given to people. By conducting customer segmentation we are able to see the average characteristics of customers issued loans.
 
-![](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data/blob/master/Credit%20Bank%20Groups.PNG)
+![](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data/blob/master/Credit%20Bank%20Groups.png)
 
 ### [Topic Modeling of Most Popular Songs in Four Decades](https://github.com/basilghauri/Analyzing-Similarities-in-Song-Lyrics-by-Decades)
 We will analyze the similarities between songs that came out in a span of four decades. This will be done by collecting the lyrics of top five songs from each decade using the Genius api and applying topic modeling on them to see if we are able to categorize them by their genres.
