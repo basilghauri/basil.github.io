@@ -6,6 +6,14 @@ This project comprises of using user data from a german bank to conduct customer
 
 ![](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data/blob/master/Credit%20Bank%20Groups.PNG?raw=true)
 
+### [A/B Test to analyze User Retention of Mobile Game](https://github.com/basilghauri/A-B-Testing-of-Mobile-Game)
+The data is taken from a mobile game called Cookie Cat. It represnts players progress throughout the game in which they encounter obstacles represented as gates that players have to cross either by waiting or doing in-app purchases. In this project we conduct an A/B test to study players retention rate if the first gate in the game is moved from level 30 to level 40.
+
+![](https://github.com/basilghauri/basilghauri.github.io/blob/main/A-B%20Fig%203.PNG?raw=true)
+![](https://github.com/basilghauri/basilghauri.github.io/blob/main/A-B%20Fig%202.PNG?raw=true)
+![](https://github.com/basilghauri/basilghauri.github.io/blob/main/A-B%20Fig%201.PNG?raw=true)
+
+
 ### [Topic Modeling of Most Popular Songs in Four Decades](https://github.com/basilghauri/Analyzing-Similarities-in-Song-Lyrics-by-Decades)
 We will analyze the similarities between songs that came out in a span of four decades. This will be done by collecting the lyrics of top five songs from each decade using the Genius api and applying topic modeling on them to see if we are able to categorize them by their genres.
 
