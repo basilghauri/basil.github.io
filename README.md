@@ -1,7 +1,7 @@
 # Basil Ghauri
 ## Projects
 
-### [Predict Churn of Banking Customers](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data)
+### [Predict Churn of Banking Customers](https://github.com/basilghauri/Predict-Churn-of-Banking-Customers)
 Analyze Banking Customer data and predict churn using Random Forest, AdaBoost and SVM. In order to improve the accuracy the prediction models I implemented Unsampling through SMOTE.
 
 ![image](https://user-images.githubusercontent.com/52931904/110447244-e155f280-8074-11eb-90f0-f0b01b921b64.png)
