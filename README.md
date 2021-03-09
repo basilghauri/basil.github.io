@@ -1,6 +1,13 @@
 # Basil Ghauri
 ## Projects
 
+### [Predict Churn of Banking Customers](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data)
+Analyze Banking Customer data and predict churn using Random Forest, AdaBoost and SVM. In order to improve the accuracy the prediction models I implemented Unsampling through SMOTE.
+
+![image](https://user-images.githubusercontent.com/52931904/110447244-e155f280-8074-11eb-90f0-f0b01b921b64.png)
+![image](https://user-images.githubusercontent.com/52931904/110447123-c1beca00-8074-11eb-828f-8a97cbcb345d.png)
+
+
 ### [Customer Segmentation using Credit Bank Data](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data)
 This project comprises of using user data from a german bank to conduct customer segmentation of loans given to people. By conducting customer segmentation we are able to see the average characteristics of customers issued loans.
 
