@@ -1,11 +1,16 @@
-# Basil Ghauri
-## Projects
+
+# Projects
 
 ### [Predict Churn of Banking Customers](https://github.com/basilghauri/Predict-Churn-of-Banking-Customers)
 Analyze Banking Customer data and predict churn using Random Forest, AdaBoost and SVM. In order to improve the accuracy the prediction models I implemented Unsampling through SMOTE.
 
 ![image](https://user-images.githubusercontent.com/52931904/110447244-e155f280-8074-11eb-90f0-f0b01b921b64.png)
 ![image](https://user-images.githubusercontent.com/52931904/110447123-c1beca00-8074-11eb-828f-8a97cbcb345d.png)
+
+### [How Covid-19 Impacted Mental Health in US](https://public.tableau.com/profile/basil.ghauri#!/vizhome/Test1_16067085018740/Dashboard1?publish=yes)
+This dashboard sheds some light on the effects Covid-19 has had on mental health. The data consists of survey from CDC of people showing signs of Anxiety or Depression.
+
+![image](https://user-images.githubusercontent.com/52931904/112435662-44e15080-8d02-11eb-9a24-6f6205f44b33.png)
 
 
 ### [Customer Segmentation using Credit Bank Data](https://github.com/basilghauri/Customer-Segmentation-Using-Credit-Bank-Data)
